@@ -244,6 +244,9 @@
   .nav-menu ul {
     display: none;
   }
+  .desktop-search {
+    display: none;
+  }
   .son-dakika-title h3 {
     font-size: 1rem;
   }
